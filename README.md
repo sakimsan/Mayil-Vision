@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-008080?style=for-the-badge&logo=mit&logoColor=white)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built_with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Microsoft PC](https://img.shields.io/badge/Powered_by-Microsoft_PC-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://planetarycomputer.microsoft.com/)
+[![Microsoft Planetary Computer](https://img.shields.io/badge/Powered_by-Microsoft_Planetary_Computer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://planetarycomputer.microsoft.com/)
 
 
 
