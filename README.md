@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="assets/satellite.jpg" width="100%" alt="Mayil Vision Satellite Intelligence">
+  <img src="assets/satellite.png" width="100%" alt="Mayil Vision Satellite Intelligence">
 </p>
 
 
