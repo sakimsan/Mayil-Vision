@@ -1,0 +1,24 @@
+# --- Core Framework ---
+streamlit
+pandas
+numpy
+
+# --- Geospatial & Mapping ---
+geopandas
+osmnx
+leafmap
+folium
+shapely
+
+# --- Satellite Data & Xarray Stack ---
+pystac-client
+planetary-computer
+stackstac
+xarray
+rioxarray
+rasterio
+netCDF4
+
+# --- Infrastructure & Utilities ---
+python-dotenv
+pathlib
