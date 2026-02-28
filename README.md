@@ -7,9 +7,7 @@
 [![Streamlit](https://img.shields.io/badge/Built_with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Microsoft PC](https://img.shields.io/badge/Powered_by-Microsoft_PC-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://planetarycomputer.microsoft.com/)
 
-**[🎯 Quick Start](#-quick-start)** • 
-**[✨ Features](#-features)** •
-**[🚀 Installation](#-Installation)**
+
 
 <p align="center">
   <img src="assets/satellite.jpg" width="100%" alt="Mayil Vision Satellite Intelligence">
